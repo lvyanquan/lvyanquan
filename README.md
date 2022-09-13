@@ -1,6 +1,6 @@
-### Hi, nice to meet you.
+### Hi, I‘m Kunni, nice to meet you.
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Java](https://img.shields.io/badge/-JAVA-orange) 
 ![Hadoop](https://img.shields.io/badge/-Hadoop-red) 
 ![Flink](https://img.shields.io/badge/-Flink-yellow) 
