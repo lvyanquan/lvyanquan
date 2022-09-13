@@ -1,6 +1,10 @@
 ### Hi, I‘m Kunni, nice to meet you.
 
-# 💻 Tech Stack
+# 💫 About Me:
+Senior Software Engineer. Work At Dtstack.<br>
+Experienced In Fields Of Big Data.
+
+## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/-JAVA-orange) 
 ![Hadoop](https://img.shields.io/badge/-Hadoop-red) 
 ![Flink](https://img.shields.io/badge/-Flink-yellow) 
