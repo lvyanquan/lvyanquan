@@ -1,7 +1,7 @@
 ### Hi, I‘m Kunni, nice to meet you.
 
 # 💫 About Me:
-Senior Software Engineer, Focus On Fields Of Big Data.
+Software Engineer, Focus On Fields Of Big Data.
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/-JAVA-orange) 
