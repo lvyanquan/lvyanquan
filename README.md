@@ -4,10 +4,12 @@
 Software Engineer, Focus On Fields Of Big Data.
 
 ## 💻 Tech Stack
-[![Java](https://www.oracle.com/a/tech/img/java-logo-white.svg)](https://en.wikipedia.org/wiki/Java)
-[![Hadoop](https://hadoop.apache.org/hadoop-logo.jpg)](https://hadoop.apache.org/)
-[![Flink](https://flink.apache.org/img/flink-header-logo.svg)](https://flink.apache.org/)
-[![Iceberg](https://iceberg.apache.org/docs/latest/img/Iceberg-logo.png)](https://iceberg.apache.org/)
+<table><tr>
+<td><img src="https://hadoop.apache.org/hadoop-logo.jpg" width = "100" height = "40"  /></td>
+<td><img src="https://flink.apache.org/img/flink-header-logo.svg" width = "100" height = "40"  /></td>
+<td><img src="https://iceberg.apache.org/docs/latest/img/Iceberg-logo.png" width = "100" height = "40"  /></td>
+</tr></table>
+  
 
 
 ## 📊 GitHub Activity
