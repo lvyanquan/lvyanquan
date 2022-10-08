@@ -4,7 +4,8 @@
 Software Engineer, Focus On Fields Of Big Data.
 
 ## 📧 Contact
-email: decq12ybhl@gmail.com
+E-mail: decq12ybhl@gmail.com
+Official Accounts: decq_data
 
 ## 💻 Tech Stack
 <table><tr>
