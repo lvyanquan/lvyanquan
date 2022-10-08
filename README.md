@@ -1,6 +1,6 @@
 ### Hi, I‘m Kunni, nice to meet you.
 
-# 💫 About Me:
+# 💫 About Me
 Software Engineer, Focus On Fields Of Big Data.
 
 ## 📧 Contact
