@@ -9,8 +9,9 @@ E-mail: decq12ybhl@gmail.com
 ## 💻 Tech Stack
 <table><tr>
 <td><img src="https://hadoop.apache.org/hadoop-logo.jpg" width = "100" height = "40"  /></td>
-<td><img src="https://flink.apache.org/img/flink-header-logo.svg" width = "100" height = "40"  /></td>
+<td><img src="https://flink.apache.org/img/flink-header-logo.svg" width = "100" height = "40"  /></td>     
 <td><img src="https://iceberg.apache.org/docs/latest/img/Iceberg-logo.png" width = "100" height = "40"  /></td>
+<td><img src="https://github.com/trinodb/trino/blob/master/.github/homepage.png" width = "100" height = "40"  /></td>  
 </tr></table>
 
 ## 📊 GitHub Activity
