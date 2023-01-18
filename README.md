@@ -4,7 +4,12 @@
 Software Engineer, Focus On Fields Of Big Data.
 
 ## 📧 Contact
-E-mail: decq12ybhl@gmail.com 
+E-mail: decq12ybhl@gmail.com   
+Official accounts    
+![qrcode_for_gh_ec38a89718b3_258](https://user-images.githubusercontent.com/38547014/213059069-c046269f-55a8-4e90-aa05-937ba48111ad.jpg)   
+LeetCode https://leetcode.cn/u/decq/    
+
+
 
 ## 💻 Tech Stack
 <table><tr>
