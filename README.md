@@ -1,4 +1,4 @@
-### Hi, I‘m Kunni, nice to meet you.
+### Hi, I‘m Kunni, nice to meet you 😊.
 
 # 💫 About Me
 Software Engineer, Focus On Fields Of Big Data.
