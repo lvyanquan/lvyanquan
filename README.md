@@ -3,7 +3,6 @@
 # 💫 About Me
 Software Engineer, Focus On Fields Of Big Data.  
 Enjoy coding, running
-<img align="right" top='20' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 ## 💻 Tech Stack
 <table><tr>
@@ -14,5 +13,7 @@ Enjoy coding, running
 </tr></table>
 
 ## 📊 GitHub Activity
-![](https://github-readme-stats.vercel.app/api?username=lvyanquan&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lvyanquan&hide_border=false)<br/>
+<img align="right" top='20' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>   
+
+![](https://github-readme-stats.vercel.app/api?username=lvyanquan&hide_border=false&include_all_commits=false&count_private=false)<br/>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=lvyanquan&hide_border=false)<br/>  
