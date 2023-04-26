@@ -3,7 +3,7 @@
 # 💫 About Me
 Software Engineer, Focus On Fields Of Big Data.  
 Enjoy coding, running
-<img align="right" top='40' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<img align="right" top='20' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 ## 💻 Tech Stack
 <table><tr>
