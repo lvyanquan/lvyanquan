@@ -2,7 +2,9 @@
 
 # 💫 About Me
 Software Engineer, Focus On Fields Of Big Data.  
-<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
+Enjoy coding, running
+<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+
 ## 💻 Tech Stack
 <table><tr>
 <td><img src="https://hadoop.apache.org/hadoop-logo.jpg" width = "100" height = "40"  /></td>
