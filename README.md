@@ -1,4 +1,5 @@
 ### Hi, I‘m Kunni, nice to meet you 😊
+<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 # 💫 About Me
 Software Engineer, Focus On Fields Of Big Data.  
@@ -14,3 +15,5 @@ Software Engineer, Focus On Fields Of Big Data.
 ## 📊 GitHub Activity
 ![](https://github-readme-stats.vercel.app/api?username=lvyanquan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lvyanquan&theme=dark&hide_border=false)<br/>
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/lvyanquan/count.svg)th visitor
