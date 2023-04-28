@@ -2,7 +2,7 @@
 
 # 💫 About Me
 Software Engineer, Focus On Fields Of Big Data.  
-Enjoy coding, running
+Enjoy coding and running.
 
 ## 💻 Tech Stack
 <table><tr>
