@@ -16,3 +16,6 @@ Enjoy coding and running.
 <img align="right" top='0' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320"/>  
 
 ![](https://github-readme-stats.vercel.app/api?username=lvyanquan&hide_border=false&include_all_commits=false&count_private=false)<br/>  
+
+## Official Accounts
+![qrcode_for_gh_ec38a89718b3_258](https://github.com/lvyanquan/lvyanquan/assets/38547014/d78527ef-0dd1-455d-9116-4a8c2e055196)
