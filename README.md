@@ -6,10 +6,8 @@ Enjoy coding and running.
 
 ## 💻 Tech Stack
 <table><tr>
-<td><img src="https://hadoop.apache.org/hadoop-logo.jpg" width = "75" height = "30"  /></td>
 <td><img src="https://flink.apache.org/img/flink-header-logo.svg" width = "75" height = "30"  /></td>     
-<td><img src="https://iceberg.apache.org/docs/latest/img/Iceberg-logo.png" width = "75" height = "30"  /></td>
-<td><img src="https://hudi.apache.org/cn/assets/images/hudi.png" width = "75" height = "30"  /></td>  
+<td><img src="https://paimon.apache.org/docs/master/paimon_black.svg" width = "75" height = "30"  /></td>
 </tr></table>
 
 ## 📊 GitHub Activity
